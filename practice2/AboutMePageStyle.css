@@ -1,25 +1,29 @@
 h1 {
-    font-style:italic;
+    font-style: italic;
     border-style: solid;
     border-color: red;
-    text-align:center;
-    font-size:3em;
+    text-align: center;
+    font-size: 3em;
 }
+
 h2 {
     padding-top: 20px;
     padding-bottom: 50px;
 }
+
 p {
     font-family: sans-serif;
     font-size: 2em;
-    width:700px;
-    margin:auto;
+    width: 700px;
+    margin: auto;
 }
+
 ol {
-    padding:20px;
-    color:darkred;
+    padding: 20px;
+    color: darkred;
     font-size: 1.5em;
 }
+
 ul {
     font-family: serif;
     font-size: 1.25em;
